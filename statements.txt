@@ -1,0 +1,36 @@
+-------- Statement of Completenesss --------
+
+Fill the below for each section with C for complete and P for partially complete.
+For example: A[C]
+
+A [C]
+B [C]
+C [C]
+D [C]
+E [P] 
+
+Comments:
+Part E is partially complete, as the memory history logging is outputted to the Overseer,
+and not to the Controller.
+--------------------------------------------
+
+
+-------- Statement of Contribution --------
+
+Ignore this if in a group of 1.
+
+Fill the below with your student IDs, names, and contribution description.
+
+ID: n10214453
+name: Zachary Nicoll
+contribution: A, 50% of B, E, Makefile
+
+ID: n9959807
+name: Liam Percy
+contribution: 50% of B, C, D, Code Documentation
+
+Comments:
+
+--------------------------------------------
+
+
